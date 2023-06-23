@@ -1,6 +1,10 @@
+![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+
+
 <h1 align="center">Hi 👋, I'm Arpitshivam Pandey</h1>
 <h3 align="center">A passionate & Aspiring Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/3a7a4b0d445c7b4a4b2bc55477a33c26/tenor.gif?itemid=19512437">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit0324&label=Profile%20views&color=0e75b6&style=flat" alt="arpit0324" /> </p>
 
@@ -12,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **NLP and Full stack Development**
 
-- 💬 Ask me about **React, Next, NLP, and Machine Learning**
+- 💬 Ask me about **React, Next, NLP, Machine Learning**
 
 - 📫 How to reach me **pandeyarpitshivam@gmail.com**
 
@@ -22,7 +26,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpitshivam-ajay-pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpitshivam-ajay-pandey/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/arpitshivam24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arpitshivam24/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/a24sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/a24sp" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pandeyarpitshivam/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pandeyarpitshivam/practice" height="30" width="40" /></a>
 </p>
 

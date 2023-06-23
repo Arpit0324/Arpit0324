@@ -16,11 +16,11 @@ I love exploring and learning new tech stacks.
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔  🔭 &nbsp; I’m currently working on Web Development using Node.js and Express.
-✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
-✔  💬 Ask me about React, NLP, PowerBI<br>
-✔  📫 &nbsp;How to reach me, you can email me at [Gmail](pandeyarpitshivam@gmail.com)<br>
+✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which help us to make our lives more efficient.<br>
+✔  💬 Ask me about React, NLP, and PowerBI<br>
+✔  📫 &nbsp; How to reach me, you can email me at [Gmail](pandeyarpitshivam@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/arpitshivam-ajay-pandey/),If I am alive I will answer within seconds 😉<br>
-✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
+✔  📚 &nbsp; When I am free, I read finance and business books.<br>
 ✔ ⚡ &nbsp; Fun fact: I am Team Player .😉
 <br>
 
@@ -82,9 +82,9 @@ I love exploring and learning new tech stacks.
  
 <p align="center">
  
-[![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit0324&count_private=true&show_icons=true&theme=radical)](https://github.com/kajalkumari23)
+[![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit0324&count_private=true&show_icons=true&theme=radical)](https://github.com/kajalkumari23)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit0324&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit0324&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arpit0324&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 

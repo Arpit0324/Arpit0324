@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpitshivam Pandey</h1>
 <h3 align="center">A passionate & Aspiring Data Scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/3a7a4b0d445c7b4a4b2bc55477a33c26/tenor.gif?itemid=19512437">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit0324&label=Profile%20views&color=0e75b6&style=flat" alt="arpit0324" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **NLP and Full stack Development**
 
-- 💬 Ask me about **React, Next, NLP, Machine Learning**
+- 💬 Ask me about **React, Next, NLP, and Machine Learning**
 
 - 📫 How to reach me **pandeyarpitshivam@gmail.com**
 
@@ -36,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit0324&show_icons=true&locale=en" alt="arpit0324" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit0324&" alt="arpit0324" /></p>
-
